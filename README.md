@@ -1,2 +1,2 @@
-# C++program-1
-Pattern1
+# C++program-
+Different type of Patterns
