@@ -1,2 +1,2 @@
-# C-program-1
+# C++program-1
 Pattern1
